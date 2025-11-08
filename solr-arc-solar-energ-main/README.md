@@ -1,4 +1,4 @@
-# ✨ Welcome to Your Spark Template!
+# ✨ Welcome to Your SOLR Template!
 # SOLR-ARC: AI-Managed Real-World Asset (RWA) Settlement Protocol
 
 Tagline: Turning Sunlight into Liquid, Compliant, Stablecoin Value.
